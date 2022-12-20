@@ -1,20 +1,14 @@
 # 👋 Hey, friends! 💖
 
-## I'm NitroGuy, a software engineer and music producer :)
+I'm NitroGuy, a software engineer and music producer :)
 
-## https://nitroguy10.github.io/ (redesign imminent 😋)
+I am highly interested in computer science and software development. I would call myself a "full-stack web developer" as of now but I am very eager to explore other facets of computer science. I am proficient in Java, Python, HTML, CSS, JavaScript, C++, and C#.
 
-### I am highly interested in computer science and software development. I would call myself a "full-stack web developer" as of now but I am very eager to explore other facets of computer science. I am proficient in Java, Python, HTML, CSS, JavaScript, C++, and C#.
+https://nitroguy10.github.io/ (redesign imminent 😋)
 
-<br>
+## Some of my Projects
 
----
-<br>
-
-
-## You can read more about my projects on my [website](https://nitroguy10.github.io/articles/projects.html), but here's a list of some of them:
-
-<br>
+You can read more about them on my [website](https://nitroguy10.github.io/articles/projects.html).
 
 ### Best Projects 🏆
 
@@ -101,12 +95,7 @@ All of these were made in 24 hours or less
 - [ColorSplitter](https://github.com/NitroGuy10/ColorSplitter) 🎨
   - Split images into separate whitemasks
 
-
 <br>
-
----
-<br>
-
 
 ## Music 🎵
 
