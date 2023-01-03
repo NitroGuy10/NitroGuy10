@@ -22,6 +22,8 @@ You can read more about them on my [website](https://nitroguy10.github.io/articl
   - A fan-made remake of Super Hexagon made in 2 days
 - [ERS-OL](https://github.com/NitroGuy10/ERS-OL) 🃏
   - Play Egyptian Rat Screw online with your friends
+- [Recommends](https://github.com/prydt/recommends) 💁‍♀️
+  - A social media platform where users can create and share personalized pages displaying their favorite books, movies, etc.
 
 
 ### Hackathon Projects 💻
