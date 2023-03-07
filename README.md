@@ -33,6 +33,10 @@ Check out my [Devpost](https://devpost.com/naviyer10) for more information
 
 All of these were made in 24 hours or less
 
+- Heart2Heart 💖🥇
+  - For Chillennium 2023 (Best in Originality); see [Games](#games-)
+- [Converge](https://github.com/Abhishek-More/converge) 🧑‍🏫
+  - An online classroom space with accessibility features for DivHack 2023
 - [ReVal](https://github.com/NitroGuy10/ReVal-backend) 📊
   - A customer analytics web app for HackUTD IX (2022)
 - [ByteSize](https://github.com/NitroGuy10/ByteSizeBackend) 🎞
@@ -63,6 +67,8 @@ All of these were made in 24 hours or less
 
 ### Games 🎮
 
+- [Heart2Heart](https://github.com/NitroGuy10/Chillennium2023) 💖🥇
+  - A cutesy and emotional puzzle platformer for Chillennium 2023 (Best in Originality)
 - [Jumpy](https://github.com/NitroGuy10/Jumpy) 🏃‍♀️
   - An infuriatingly difficult but addicting web platformer
 - [Dodge3](https://github.com/NitroGuy10/Dodge3) 🕹
