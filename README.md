@@ -16,6 +16,8 @@ You can read more about them on my [website](https://nitroguy10.github.io/articl
   - A web app where participants at a hackathon can easily submit help tickets (I made the backend)
 - [Compara2r](https://github.com/NitroGuy10/Compara2r) 👍
   - A web app for finding out the best thing among a dataset through 1-vs-1 comparisons
+- [Heart2Heart](https://github.com/NitroGuy10/Chillennium2023) 💖🥇
+  - For Chillennium 2023 (Best in Originality); see [Games](#games-)
 - [nitroguy10.github.io](https://github.com/NitroGuy10/nitroguy10.github.io) 🌐
   - Learn how my website was made [here](https://nitroguy10.github.io/articles/about_website.html)
 - [Supremely_Hexagonal](https://github.com/NitroGuy10/Supremely_Hexagonal) ❄
@@ -33,7 +35,7 @@ Check out my [Devpost](https://devpost.com/naviyer10) for more information
 
 All of these were made in 24 hours or less
 
-- Heart2Heart 💖🥇
+- [Heart2Heart](https://github.com/NitroGuy10/Chillennium2023) 💖🥇
   - For Chillennium 2023 (Best in Originality); see [Games](#games-)
 - [Converge](https://github.com/Abhishek-More/converge) 🧑‍🏫
   - An online classroom space with accessibility features for DivHack 2023
