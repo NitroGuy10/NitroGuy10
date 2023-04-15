@@ -17,7 +17,7 @@ You can read more about them on my [website](https://nitroguy10.github.io/articl
 - [Compara2r](https://github.com/NitroGuy10/Compara2r) 👍
   - A web app for finding out the best thing among a dataset through 1-vs-1 comparisons
 - [Heart2Heart](https://github.com/NitroGuy10/Chillennium2023) 💖🥇
-  - For Chillennium 2023 (Best in Originality); see [Games](#games-)
+  - A game for Chillennium 2023 (Best in Originality); see [Games](#games-)
 - [nitroguy10.github.io](https://github.com/NitroGuy10/nitroguy10.github.io) 🌐
   - Learn how my website was made [here](https://nitroguy10.github.io/articles/about_website.html)
 - [Supremely_Hexagonal](https://github.com/NitroGuy10/Supremely_Hexagonal) ❄
@@ -35,9 +35,11 @@ Check out my [Devpost](https://devpost.com/naviyer10) for more information
 
 All of these were made in 24 hours or less
 
+- [Spark](https://github.com/NitroGuy10/RowdyHacks2023-backend) 🦉
+  - Create fully-featured online courses from lecture videos using AI for RowdyHacks 2023
 - [Heart2Heart](https://github.com/NitroGuy10/Chillennium2023) 💖🥇
-  - For Chillennium 2023 (Best in Originality); see [Games](#games-)
-- [Converge](https://github.com/Abhishek-More/converge) 🧑‍🏫
+  - A game for Chillennium 2023 (Best in Originality); see [Games](#games-)
+- [Converge](https://github.com/Abhishek-More/converge) 🏫
   - An online classroom space with accessibility features for DivHack 2023
 - [ReVal](https://github.com/NitroGuy10/ReVal-backend) 📊
   - A customer analytics web app for HackUTD IX (2022)
@@ -122,8 +124,6 @@ I produce EDM and Dubstep music as "The Sass"
 - [Twitter](https://twitter.com/NitroGuy10)
 - ["The Sass" Twitter](https://twitter.com/The_Sass_Music)
 - nitroguysm(at)gmail.com
-
-he/him
 
 <!--
 **NitroGuy10/NitroGuy10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
