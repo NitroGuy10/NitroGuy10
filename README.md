@@ -24,7 +24,7 @@ You can read more about them on my [website](https://nitroguy10.github.io/articl
   - A fan-made remake of Super Hexagon made in 2 days
 - [ERS-OL](https://github.com/NitroGuy10/ERS-OL) 🃏
   - Play Egyptian Rat Screw online with your friends
-- [Recommends](https://github.com/prydt/recommends) 💁‍♀️
+- [Recommends](https://github.com/prydt/recommends) 💁‍♀
   - A social media platform where users can create and share personalized pages displaying their favorite books, movies, etc.
 - [Xylem](https://github.com/NitroGuy10/Xylem) 🌳
   - A customizable file converter
@@ -73,7 +73,7 @@ All of these were made in 24 hours or less
 
 - [Heart2Heart](https://github.com/NitroGuy10/Chillennium2023) 💖🥇
   - A cutesy and emotional puzzle platformer for Chillennium 2023 (Best in Originality)
-- [Jumpy](https://github.com/NitroGuy10/Jumpy) 🏃‍♀️
+- [Jumpy](https://github.com/NitroGuy10/Jumpy) 🏃‍♀
   - An infuriatingly difficult but addicting web platformer
 - [Dodge3](https://github.com/NitroGuy10/Dodge3) 🕹
   - A simple web game where you dodge the red
