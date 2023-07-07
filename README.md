@@ -4,7 +4,7 @@ I'm NitroGuy, a software engineer and music producer :)
 
 I am highly interested in computer science and software development. I would call myself a "full-stack web developer" as of now but I am very eager to explore other facets of computer science. I am proficient in Java, Python, HTML, CSS, JavaScript, C++, and C#.
 
-https://nitroguy10.github.io/ (redesign imminent 😋)
+https://nitroguy10.github.io/
 
 ## Some of my Projects
 
