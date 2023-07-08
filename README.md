@@ -19,7 +19,7 @@ You can read more about them on my [website](https://nitroguy10.github.io/articl
 - [Heart2Heart](https://github.com/NitroGuy10/Chillennium2023) 💖🥇
   - A game for Chillennium 2023 (Best in Originality); see [Games](#games-)
 - [nitroguy10.github.io](https://github.com/NitroGuy10/nitroguy10.github.io) 🌐
-  - Learn how my website was made [here](https://nitroguy10.github.io/articles/about_website.html)
+  - My website, made with Vue and Nuxt
 - [Supremely_Hexagonal](https://github.com/NitroGuy10/Supremely_Hexagonal) ❄
   - A fan-made remake of Super Hexagon made in 2 days
 - [ERS-OL](https://github.com/NitroGuy10/ERS-OL) 🃏
