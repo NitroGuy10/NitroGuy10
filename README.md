@@ -13,7 +13,7 @@ You can read more about them on my [website](https://nitroguy10.github.io/articl
 ### Best Projects 🏆
 
 - [HelpR](https://github.com/tamuhack-org/helpR-backend) 🎟
-  - A web app where participants at a hackathon can easily submit help tickets (I made the backend)
+  - A web app that enables participants at a hackathon to easily submit help tickets
 - [Compara2r](https://github.com/NitroGuy10/Compara2r) 👍
   - A web app for finding out the best thing among a dataset through 1-vs-1 comparisons
 - [Heart2Heart](https://github.com/NitroGuy10/Chillennium2023) 💖🥇
@@ -35,9 +35,9 @@ Check out my [Devpost](https://devpost.com/naviyer10) for more information
 
 All of these were made in 24 hours or less
 
-- [Kabloop](https://github.com/NitroGuy10/kabloop)
+- [Kabloop](https://github.com/NitroGuy10/kabloop) 🎮🥇
   - Create fun online multiplayer quizzes from scanned lecture notes for tidalTAMU Fall Hackathon (First Overall Winner)
-- [Homestead](https://github.com/Abhishek-More/homestead)
+- [Homestead](https://github.com/Abhishek-More/homestead) 🏡🥇
   - A loan/mortgage data analytics app for HackUTD X (2023) (2nd Place for Fannie Mae Challenge; Top 5 Overall)
 - [Runtime](https://github.com/Abhishek-More/runtime) 💻🥇
   - A real-time online multiplayer competitive programming game for HackTX 2023 (Best Design)
