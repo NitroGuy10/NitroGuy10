@@ -35,6 +35,12 @@ Check out my [Devpost](https://devpost.com/naviyer10) for more information
 
 All of these were made in 24 hours or less
 
+- [Kabloop](https://github.com/NitroGuy10/kabloop)
+  - Create fun online multiplayer quizzes from scanned lecture notes for tidalTAMU Fall Hackathon (First Overall Winner)
+- [Homestead](https://github.com/Abhishek-More/homestead)
+  - A loan/mortgage data analytics app for HackUTD X (2023) (2nd Place for Fannie Mae Challenge; Top 5 Overall)
+- [Runtime](https://github.com/Abhishek-More/runtime) 💻🥇
+  - A real-time online multiplayer competitive programming game for HackTX 2023 (Best Design)
 - [Spark](https://github.com/NitroGuy10/RowdyHacks2023-backend) 🦉
   - Create fully-featured online courses from lecture videos using AI for RowdyHacks 2023
 - [Heart2Heart](https://github.com/NitroGuy10/Chillennium2023) 💖🥇
