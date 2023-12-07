@@ -8,7 +8,7 @@ https://nitroguy10.github.io/
 
 ## Some of my Projects
 
-You can read more about them on my [website](https://nitroguy10.github.io/articles/projects.html).
+You can read more about them on my [website](https://nitroguy10.github.io/projects).
 
 ### Best Projects 🏆
 
