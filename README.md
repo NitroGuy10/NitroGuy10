@@ -4,11 +4,11 @@ I'm NitroGuy, a software engineer and music producer :)
 
 I am highly interested in computer science and software development. I would call myself a "full-stack web developer" as of now but I am very eager to explore other facets of computer science. I am proficient in Java, Python, HTML, CSS, JavaScript, C++, and C#.
 
-https://nitroguy10.github.io/
+https://nitroguy.xyz
 
 ## Some of my Projects
 
-You can read more about them on my [website](https://nitroguy10.github.io/projects).
+You can read more about them on my [website](https://nitroguy.xyz/projects).
 
 ### Best Projects 🏆
 
@@ -18,7 +18,7 @@ You can read more about them on my [website](https://nitroguy10.github.io/projec
   - A web app for finding out the best thing among a dataset through 1-vs-1 comparisons
 - [Heart2Heart](https://github.com/NitroGuy10/Chillennium2023) 💖🥇
   - A game for Chillennium 2023 (Best in Originality); see [Games](#games-)
-- [nitroguy10.github.io](https://github.com/NitroGuy10/nitroguy10.github.io) 🌐
+- [nitroguy.xyz](https://github.com/NitroGuy10/nitroguy10.github.io) 🌐
   - My website, made with Vue and Nuxt
 - [Supremely_Hexagonal](https://github.com/NitroGuy10/Supremely_Hexagonal) ❄
   - A fan-made remake of Super Hexagon made in 2 days
