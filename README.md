@@ -1,8 +1,6 @@
-# 👋 Hey, friends! 💖
+# 👋 Hi :) 💖
 
-I'm NitroGuy, a software engineer and music producer :)
-
-I am highly interested in computer science and software development. I would call myself a "full-stack web developer" as of now but I am very eager to explore other facets of computer science. I am proficient in Java, Python, HTML, CSS, JavaScript, C++, and C#.
+I'm Naveen Iyer (NitroGuy), a software engineer and music producer :)
 
 https://nitroguy.xyz
 
@@ -123,13 +121,16 @@ I produce EDM and Dubstep music as "The Sass"
 - [YouTube](https://www.youtube.com/TheSassMusic)
 - [SoundCloud](https://soundcloud.com/the-sass-music)
 - [Spotify](https://open.spotify.com/artist/37Cyay5aidIqtrWkQei3cC) (limited discography)
-- Portfolio on my [website](https://nitroguy10.github.io/#music)
+- Portfolio on my [website](https://nitroguy.xyz/music) 
 
 ## Find me elsewhere on the internet 🌐
 
 - [Twitter](https://twitter.com/NitroGuy10)
 - ["The Sass" Twitter](https://twitter.com/The_Sass_Music)
-- nitroguysm(at)gmail.com
+- [Bluesky](https://bsky.app/profile/nitroguy10.bsky.social)
+- ["The Sass" Bluesky](https://bsky.app/profile/thesassmusic.bsky.social)
+- [Instagram](https://www.instagram.com/the_sass_music)
+- nitroguysm at gmail dot com
 
 <!--
 **NitroGuy10/NitroGuy10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
